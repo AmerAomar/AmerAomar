@@ -1,6 +1,13 @@
 # 👋 Hi, I'm Amer
 
 🚀 Software Engineer | Full-Stack Developer | Problem Solver
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Angular+%7C+Node.js+%7C+Python;Always+Learning+New+Things)](https://git.io/typing-svg)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
 
 ---
 
