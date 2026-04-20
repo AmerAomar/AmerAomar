@@ -71,9 +71,9 @@
 
 ## 📊 GitHub Stats
 
-![Amer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmerAomar&show_icons=true&theme=tokyonight)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmerAomar&theme=tokyonight)
+
+---
 
 ## 🔥 Top Languages
 
@@ -81,16 +81,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=AmerAomar&theme=tokyonight&no-frame=true&row=1)
-
----
-
 ## 🚀 Current Focus
 
 - Improving backend development (Node.js + APIs)
-- Learning system design fundamentals
+- Improve system design knowledge
 - Building real-world full-stack projects
 
 ---
